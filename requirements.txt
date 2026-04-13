@@ -1,0 +1,1 @@
+ray[rllib]>=2.5.0\ntorch>=2.0.0\ngymnasium>=0.28.0
